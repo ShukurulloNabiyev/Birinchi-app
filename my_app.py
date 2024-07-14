@@ -64,3 +64,7 @@ with tab2:
 with tab3:
    st.header("An owl")
    st.image("https://static.streamlit.io/examples/owl.jpg", width=200)
+
+
+
+st.write("# tugadimi")
